@@ -1,0 +1,382 @@
+{
+  "id": "sun-m-ashcroft",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@m_ashcroft Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_890be210f441",
+    "display_name": "m_ashcroft",
+    "user_id": "@m_ashcroft",
+    "description": "Community Archive-derived proof-of-search sun for @m_ashcroft.",
+    "document_count": 52962,
+    "word_count": 964694,
+    "active_days": 2046,
+    "emissions": [
+      "Think",
+      "Visakanv",
+      "Don",
+      "Good",
+      "Want",
+      "Yeah"
+    ],
+    "generated_at": "2026-06-27T16:33:03.642567+00:00",
+    "color": "#f59e0b",
+    "mass": 13.78
+  },
+  "planets": [
+    {
+      "id": "planet_ade1e0b8e89e",
+      "name": "Think",
+      "summary": "Archive cluster around think: 43315 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "here",
+        "now",
+        "yes",
+        "way"
+      ],
+      "artifacts": [
+        {
+          "id": "art_ea70137b7fff",
+          "title": "Think receipt from 2023-12-24",
+          "excerpt": "you are very far from where you were born https://t.co/Fs9sSuJxc8",
+          "source_document_id": "1739043667711561872",
+          "timestamp": "2023-12-24T22:01:34+00:00",
+          "url": "https://x.com/m_ashcroft/status/1739043667711561872",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, here, now, yes."
+        },
+        {
+          "id": "art_ee5da5afc741",
+          "title": "Think receipt from 2024-01-06",
+          "excerpt": "This building in London has a fun concave facade to preserve what I assume is a historic sight line from the pub behind me to the church\n\nI love it https://t.co/ULb9VauzT4",
+          "source_document_id": "1743582630015008785",
+          "timestamp": "2024-01-06T10:37:47+00:00",
+          "url": "https://x.com/m_ashcroft/status/1743582630015008785",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, here, now, yes."
+        },
+        {
+          "id": "art_3a0768cdc238",
+          "title": "Think receipt from 2023-06-19",
+          "excerpt": "isn’t it incredible that houses have pipes that carry clean water in and dirty water out and all you have to do is open a tap or push a button?\n\nand that the networks that do this are built and operated by people and they run perfectly basically all the time?",
+          "source_document_id": "1670903564074467337",
+          "timestamp": "2023-06-19T21:17:08+00:00",
+          "url": "https://x.com/m_ashcroft/status/1670903564074467337",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, here, now, yes."
+        },
+        {
+          "id": "art_626e569a92b4",
+          "title": "Think receipt from 2021-11-28",
+          "excerpt": "The male urge, upon finding a t shirt that actually fits, to buy nine of them in different colours",
+          "source_document_id": "1465065211409358856",
+          "timestamp": "2021-11-28T21:09:00+00:00",
+          "url": "https://x.com/m_ashcroft/status/1465065211409358856",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, here, now, yes."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_5e8042d8e230",
+      "proof_score": 1,
+      "mass": 40.488,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_7045f88aac26",
+      "name": "Visakanv",
+      "summary": "Archive cluster around visakanv: 2631 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "visakanv",
+        "yeah",
+        "qiaochuyuan",
+        "maybegray",
+        "yes"
+      ],
+      "artifacts": [
+        {
+          "id": "art_028b1081b4f7",
+          "title": "Visakanv receipt from 2021-10-20",
+          "excerpt": "I just came across an older video of mine while I was still at work: I look tired and stressed, my face is showing some kind of burden\n\ncontrast this to the podcast I did with @tasshinfogleman yesterday...\n\nthis is absolutely wild to be able to see looking back\n\ncc @visakanv https://t.co/NMjTdlPet1",
+          "source_document_id": "1450811579294003207",
+          "timestamp": "2021-10-20T13:10:09+00:00",
+          "url": "https://x.com/m_ashcroft/status/1450811579294003207",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: visakanv, yeah, qiaochuyuan, maybegray."
+        },
+        {
+          "id": "art_e3ba1e68e919",
+          "title": "Visakanv receipt from 2019-12-26",
+          "excerpt": "Me: I want to learn to paint!\n\n@visakanv's disembodied spirit: paint 100 things\n\nMe: urgh\n\n...\n\n\"One // I have no idea what I'm doing\" https://t.co/PLolcND8Rj",
+          "source_document_id": "1210168054660902912",
+          "timestamp": "2019-12-26T11:58:42+00:00",
+          "url": "https://x.com/m_ashcroft/status/1210168054660902912",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: visakanv, yeah, qiaochuyuan, maybegray."
+        },
+        {
+          "id": "art_8a5fa300316a",
+          "title": "Visakanv receipt from 2020-04-05",
+          "excerpt": "Who from Twitter would you love to meet one day? \n\nHere is a HIGHLY INCOMPLETE list from me:\n@visakanv \n@nosilverv \n@RichDecibels \n@cognazor \n@collinofzion \n@SeanMombo \n@reasonisfun \n@maltybegray \n@QiaochuYuan \n@Conaw \n@fortelabs\n@david_perell\n@made_in_cosmos\n@mechanicalmonk1",
+          "source_document_id": "1246858332402483201",
+          "timestamp": "2020-04-05T17:52:46+00:00",
+          "url": "https://x.com/m_ashcroft/status/1246858332402483201",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: visakanv, yeah, qiaochuyuan, maybegray."
+        },
+        {
+          "id": "art_7739f37f3902",
+          "title": "Visakanv receipt from 2022-09-18",
+          "excerpt": "@visakanv https://t.co/VWBRfMdo5O",
+          "source_document_id": "1571387219415568386",
+          "timestamp": "2022-09-18T06:34:42+00:00",
+          "url": "https://x.com/m_ashcroft/status/1571387219415568386",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: visakanv, yeah, qiaochuyuan, maybegray."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_7a0b6bae39ea",
+      "proof_score": 1,
+      "mass": 32.135,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_91983b1e5458",
+      "name": "Don",
+      "summary": "Archive cluster around don: 1992 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "want",
+        "know",
+        "need",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_0559aa1d1a67",
+          "title": "Don receipt from 2024-03-15",
+          "excerpt": "I bought a fancy expensive mouse and it almost pains me how much better it is to use than any other mouse I’ve used before\n\none of those quality of life upgrades that you don’t realise is so good until you experience it\n\n(Logitech MX Master 3S for Mac for the curious) https://t.co/FEsukYt83g",
+          "source_document_id": "1768604805063188733",
+          "timestamp": "2024-03-15T11:46:59+00:00",
+          "url": "https://x.com/m_ashcroft/status/1768604805063188733",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, know, need."
+        },
+        {
+          "id": "art_7781ba4e908e",
+          "title": "Don receipt from 2023-09-26",
+          "excerpt": "the best productivity hack out there is to use work to distract yourself from all those feelings you don't like",
+          "source_document_id": "1706659514257186885",
+          "timestamp": "2023-09-26T13:18:31+00:00",
+          "url": "https://x.com/m_ashcroft/status/1706659514257186885",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, know, need."
+        },
+        {
+          "id": "art_0e84fbbc8674",
+          "title": "Don receipt from 2023-05-11",
+          "excerpt": "Who are the most successful online teachers who aren’t selling meta, self-referential stuff about the creator economy itself, productivity or “how to solopreneur” type content?\n\nI’d love to follow more people who don’t make money online by teaching people how to make money online",
+          "source_document_id": "1656779278682390528",
+          "timestamp": "2023-05-11T21:52:16+00:00",
+          "url": "https://x.com/m_ashcroft/status/1656779278682390528",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, know, need."
+        },
+        {
+          "id": "art_725f15cd6976",
+          "title": "Don receipt from 2021-10-22",
+          "excerpt": "i don't know why I felt compelled to make this, but\n\nit's a skeptic tank https://t.co/SVWoIdl33l",
+          "source_document_id": "1451519239639158789",
+          "timestamp": "2021-10-22T12:02:09+00:00",
+          "url": "https://x.com/m_ashcroft/status/1451519239639158789",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, know, need."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_dcc05b371977",
+      "proof_score": 1,
+      "mass": 33.051,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_ba5c8497df8d",
+      "name": "Good",
+      "summary": "Archive cluster around good: 2036 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "thing",
+        "yeah",
+        "way",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_220bd0a85874",
+          "title": "Good receipt from 2023-06-20",
+          "excerpt": "I feel like there's been a lot of \"jobs are bad and you should quit\" energy on the timeline lately\n\nso here are some reasons jobs are good and what I miss about having one\n\n1) working with smart, engaged people on shared projects, bouncing ideas around and helping each other",
+          "source_document_id": "1671120989759889414",
+          "timestamp": "2023-06-20T11:41:06+00:00",
+          "url": "https://x.com/m_ashcroft/status/1671120989759889414",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, thing, yeah, way."
+        },
+        {
+          "id": "art_bb8b62cbb219",
+          "title": "Good receipt from 2022-07-13",
+          "excerpt": "hey\n\nyou’re probably looking at your phone right now. that’s cool\n\nyou might feel quite stressed though\n\nif you look at your phone while widening your peripheral vision and noticing the sounds in your environment, you’ll probably feel less stressed \n\nhave a good day",
+          "source_document_id": "1547046560437239813",
+          "timestamp": "2022-07-13T02:33:37+00:00",
+          "url": "https://x.com/m_ashcroft/status/1547046560437239813",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, thing, yeah, way."
+        },
+        {
+          "id": "art_f2110e3b3e3f",
+          "title": "Good receipt from 2023-04-28",
+          "excerpt": "After years of trying different task management systems I’m disgusted to report that writing down all my tasks on an A3 pad on my desk and then starting a new sheet when it gets full is the best way\n\nmy life is insufficiently complex for a complex system, big paper good",
+          "source_document_id": "1651934462521884675",
+          "timestamp": "2023-04-28T13:00:41+00:00",
+          "url": "https://x.com/m_ashcroft/status/1651934462521884675",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, thing, yeah, way."
+        },
+        {
+          "id": "art_0c3a16007b64",
+          "title": "Good receipt from 2021-09-16",
+          "excerpt": "For the last six months I’ve gone for a 30 - 45 minute walk every morning as close to waking as possible. I’ve missed maybe three days when it was raining heavily.\n\nIt’s become one of my favourite habits - seems to have a strong link with how good I feel.",
+          "source_document_id": "1438403662678740993",
+          "timestamp": "2021-09-16T07:25:32+00:00",
+          "url": "https://x.com/m_ashcroft/status/1438403662678740993",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, thing, yeah, way."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_50d7b9f8eefc",
+      "proof_score": 1,
+      "mass": 32.456,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_0eaf74e6ee35",
+      "name": "Want",
+      "summary": "Archive cluster around want: 1390 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "want",
+        "really",
+        "here",
+        "course",
+        "now"
+      ],
+      "artifacts": [
+        {
+          "id": "art_707858c7f9f8",
+          "title": "Want receipt from 2023-11-29",
+          "excerpt": "thinking back to a time I was struggling and burnt out at work, I suggested to my manager that specific encouragement when I did difficult things well would be helpful\n\nand the response was \"awwwww you want me to tell you that you're pretty\"\n\nthe moment I knew I had to leave",
+          "source_document_id": "1729829471736221984",
+          "timestamp": "2023-11-29T11:47:39+00:00",
+          "url": "https://x.com/m_ashcroft/status/1729829471736221984",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, really, here, course."
+        },
+        {
+          "id": "art_c5d75d709ade",
+          "title": "Want receipt from 2022-01-12",
+          "excerpt": "I have a talking point that I want to bang on about more in different ways\n\nthat is \"you can only respond to what you notice\"\n\nnot being able to notice something (if it lies outside your awareness) renders you choiceless\n\nexpanding your capacity to notice things gives you agency",
+          "source_document_id": "1481319882549514241",
+          "timestamp": "2022-01-12T17:39:16+00:00",
+          "url": "https://x.com/m_ashcroft/status/1481319882549514241",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, really, here, course."
+        },
+        {
+          "id": "art_0352d3cdefde",
+          "title": "Want receipt from 2021-09-29",
+          "excerpt": "Every time you come across strategies to skip the small talk and get straight to the action I want you to replace ‘small talk’ with ‘foreplay’ and see how much sense that makes.",
+          "source_document_id": "1443261328370581526",
+          "timestamp": "2021-09-29T17:08:09+00:00",
+          "url": "https://x.com/m_ashcroft/status/1443261328370581526",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, really, here, course."
+        },
+        {
+          "id": "art_9c83ff3277d0",
+          "title": "Want receipt from 2021-01-10",
+          "excerpt": "I want to write a little bit about the importance of earnestness.\n\nAs I look back on my childhood (I'm 33 now) I see that I was earnest a lot of the time.\n\nIt seemed obvious that I would have deep interests and be fully engaged in them for their own sake.\n\nBut...",
+          "source_document_id": "1348404724316450816",
+          "timestamp": "2021-01-10T23:01:53+00:00",
+          "url": "https://x.com/m_ashcroft/status/1348404724316450816",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, really, here, course."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_02a6c638a9d6",
+      "proof_score": 1,
+      "mass": 32.254,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_31b699664f21",
+      "name": "Yeah",
+      "summary": "Archive cluster around yeah: 1598 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "yeah",
+        "thing",
+        "really",
+        "time",
+        "actually"
+      ],
+      "artifacts": [
+        {
+          "id": "art_064a9ee35314",
+          "title": "Yeah receipt from 2024-06-27",
+          "excerpt": "oh yeah, I remember why I have resistances to working hard, it's because when I actually get into working hard I just keep going and going until at some point I realise I should have stopped a while ago",
+          "source_document_id": "1806426187440205898",
+          "timestamp": "2024-06-27T20:35:39+00:00",
+          "url": "https://x.com/m_ashcroft/status/1806426187440205898",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, thing, really, time."
+        },
+        {
+          "id": "art_581da1d61c28",
+          "title": "Yeah receipt from 2021-03-31",
+          "excerpt": "Oh yeah I’m free of all of Taleb’s addictions *smug face*\n\n... damn it Visa you got me https://t.co/rSiaFr6yFq",
+          "source_document_id": "1377191362441969664",
+          "timestamp": "2021-03-31T09:29:42+00:00",
+          "url": "https://x.com/m_ashcroft/status/1377191362441969664",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, thing, really, time."
+        },
+        {
+          "id": "art_ba19c4d7a6f7",
+          "title": "Yeah receipt from 2022-11-03",
+          "excerpt": "@algekalipso huh yeah what is the deal with 7 hours feeling worse than 6 hours",
+          "source_document_id": "1587984850509697024",
+          "timestamp": "2022-11-03T01:47:46+00:00",
+          "url": "https://x.com/m_ashcroft/status/1587984850509697024",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, thing, really, time."
+        },
+        {
+          "id": "art_44f1809565d1",
+          "title": "Yeah receipt from 2023-01-23",
+          "excerpt": "@the_wilderless @caitlynslashai yeah there's a huge difference imo between\n\nspacious boredom: no stimulation, no contraction of awareness, nothing to do\n\ncontracted boredom: waiting for expected stimulation, too much stimulation with low interest, bouncing restlessly from thing to thing",
+          "source_document_id": "1617450200393519104",
+          "timestamp": "2023-01-23T09:12:33+00:00",
+          "url": "https://x.com/m_ashcroft/status/1617450200393519104",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, thing, really, time."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_7f37b0b4fdcf",
+      "proof_score": 1,
+      "mass": 31.45,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
