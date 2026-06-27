@@ -18,3 +18,11 @@ python3 scripts/build_sun.py
 ```
 
 Boundary: this is public-source archive terrain, not reputation. Raw archive coverage and Supabase freshness are explicit provenance, not magic.
+
+## Oversized archive storage
+
+`data/archive.json` exceeded GitHub's normal blob limit, so this repo stores it as ordered parts under `data/archive.json.parts/`. Reconstruct with:
+
+```bash
+python3 scripts/reconstruct_archive.py
+```
